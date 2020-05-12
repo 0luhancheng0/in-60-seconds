@@ -1,5 +1,5 @@
-# Let's Get **Started**
-# Reinforcement Learning
+<!-- # Let's Get **Started** -->
+# Reinforcement Learning 
 ---
 
 ### Add Some Slide Candy
